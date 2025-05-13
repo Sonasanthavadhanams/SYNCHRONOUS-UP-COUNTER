@@ -1,5 +1,10 @@
 ### SYNCHRONOUS-UP-COUNTER
 
+NAME: SONA .S
+
+RegisterNumber: 212224110049
+
+
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
@@ -57,13 +62,10 @@ endmodule
 
 ```
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: SONA .S
 
-RegisterNumber: 212224110049
 
-*/
+
 
 **RTL LOGIC UP COUNTER**
 
