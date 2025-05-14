@@ -47,7 +47,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 ```
-module ex11(out,clk,rst);
+module Exp11(out,clk,rst);
 input clk,rst;
 output reg [3:0]out;
 always @ (posedge clk)
@@ -69,12 +69,14 @@ endmodule
 
 **RTL LOGIC UP COUNTER**
 
-![exp_11LG](https://github.com/user-attachments/assets/ab0aa063-e982-48f8-ae53-2b24a0426a81)
+![Screenshot 2025-05-14 104153](https://github.com/user-attachments/assets/8a36488a-035b-4459-9102-5a5c838ccd04)
+
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![EXP_11 WF](https://github.com/user-attachments/assets/ffe107af-6ae9-4603-b15f-a3ee816c58d3)
+![Screenshot 2025-05-14 104534](https://github.com/user-attachments/assets/4da96fe0-9b70-4a84-975f-6781d563845c)
+
 
 
 **TRUTH TABLE**
